@@ -5,8 +5,11 @@ This crud app displays live updates using Create, Post, Put and Delete operation
 How to use the app:
 
 Create by: entering name and email into post section.
+
 Delete by: entering the id of the post seen in the Get section
+
 Put by: entering the id of the post and changing the name and email information seen in the get section
+
 Get by: Watching Create,Delete,Put operations come into the get section.
 
 Installation Steps:
